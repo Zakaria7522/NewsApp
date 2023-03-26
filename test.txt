@@ -1,5 +1,9 @@
 public class test {
     String name;
     int roll;
+    float cg;
     float cgpa;
 }
+    
+    
+
